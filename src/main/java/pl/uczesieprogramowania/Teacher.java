@@ -5,7 +5,7 @@ import java.util.List;
 
 //obiekt nauczyciel stworzymy rozszerzając klasę abstrakcyjną Person
 public class Teacher extends Person{
-//    dodatkowymi polami tego obiektu będą obiekt Subject oraz lista uczniów
+//    dodatkowymi polami tego obiektu będą obiekt Subject oraz lista uczniów-wychowanków
     private Subject subject;
     List<Student> studentsList =  new ArrayList<>();
 
