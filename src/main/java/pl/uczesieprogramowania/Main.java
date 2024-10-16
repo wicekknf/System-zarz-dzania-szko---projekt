@@ -36,7 +36,7 @@ public class Main {
         while (loop) {
             int indeksNauczyciela = -1;
             int indeksUcznia = -1;
-            System.out.println("Co chcesz zrobić, napisz cyfrę od 1 do 13:");
+            System.out.println("Co chcesz zrobić, napisz cyfrę od 1 do 11:");
             System.out.println("1. Dodaj przedmiot:");
             System.out.println("2. Dodaj nauczyciela do listy:");
             System.out.println("3. Usuń nauczyciela z listy");
