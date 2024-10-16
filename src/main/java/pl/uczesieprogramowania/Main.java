@@ -80,7 +80,7 @@ public class Main {
 //                po wyborze nr 2 tworzymy zmienną, która nam pomoże sprawdzić czy lista przedmiotów jest pusta
 
                 boolean czyJestPrzedmiot = false;
-                System.out.println("Jakiego przedmiotu nauczyciel ma uczyć?");
+                System.out.println("Podaj nazwę przedmiotu nauczanego:");
 //                przypisujemy do zmiennej nazwę przedmiotu podaną przez użytkownika
                 String przedmiotNauczyciela = scanner.nextLine();
 
